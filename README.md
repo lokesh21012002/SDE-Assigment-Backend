@@ -23,6 +23,7 @@ This project processes images from CSV files by compressing them and storing the
 - MongoDB
 - Sharp (for image processing)
 - Multer (for file uploads)
+- Json2CSV (for converting JSON to CSV)
 
 ## How to Test
 
